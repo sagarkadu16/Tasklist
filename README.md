@@ -10,5 +10,5 @@ Project Description:
 
 - After generating list user can manage tasks specific to each list.
 
-![user_signup](./tasklist_frontend/public/animations/user_sign_up.gif)
+![user_signup](./tasklist_frontend/public/animations/add_task_list.gif)
 
