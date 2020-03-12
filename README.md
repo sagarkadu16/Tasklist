@@ -12,3 +12,9 @@ Project Description:
 
 ![user_signup](./tasklist_frontend/public/animations/add_task_list.gif)
 
+- User can perform edit,deletion operations on tasks associated with list
+
+![user-edit-delete](./tasklist_frontend/public/animations/task_edit_delete.gif)
+
+
+Project Stack: HTML,CSS,Bootstrap,JS,React,Redux,Flask,Python,JWT-Authentication
